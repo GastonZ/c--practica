@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0-windows\CursoCSharp.exe
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0-windows\CursoCSharp.deps.json
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0-windows\CursoCSharp.runtimeconfig.json
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0-windows\CursoCSharp.dll
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0-windows\CursoCSharp.pdb
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.Form1.resources
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.dll
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\refint\CursoCSharp.dll
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.pdb
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\CursoCSharp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0-windows\ref\CursoCSharp.dll
